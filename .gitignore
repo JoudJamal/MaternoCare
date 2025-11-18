@@ -1,0 +1,15 @@
+# Node / React (frontend)
+pcb-dashboard/node_modules/
+pcb-dashboard/build/
+pcb-dashboard/.env
+
+# Python / FastAPI (backend)
+backend/__pycache__/
+backend/.venv/
+backend/env/
+backend/.env
+
+# OS + Editor files
+.DS_Store
+.vscode/
+*.log
