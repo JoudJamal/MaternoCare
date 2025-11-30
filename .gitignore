@@ -13,3 +13,4 @@ backend/.env
 .DS_Store
 .vscode/
 *.log
+node_modules
